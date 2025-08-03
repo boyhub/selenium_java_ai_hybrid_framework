@@ -1,0 +1,10 @@
+/target/
+/test-report/
+/reports/
+.settings/
+
+
+logs/
+/.DS_Store/
+
+
