@@ -5,6 +5,8 @@
 
 
 logs/
-/.DS_Store/
+
+# Mac desktop service store files
+*.DS_Store
 
 
