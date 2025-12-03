@@ -1,12 +1,40 @@
+# Eclipse
+.settings/
+.classpath
+.project
+
+
+# FrameWork
 /target/
 /test-report/
 /reports/
-.settings/
 
 
 logs/
 
 # Mac desktop service store files
 *.DS_Store
+.AppleDouble
+.LSOverride
+*.cache
 
+	
+
+*.dll
+*.exe
+*.exp
+*.ilk
+*.lib
+*.ncb
+*.log
+*.pdb
+*.lnk
+
+# Java
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
 
